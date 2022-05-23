@@ -35,10 +35,11 @@
 8. Test neural network with new data.
 
 ## Program:
-
-### Program to implement the sigmoid activation function in a feed forward ANN.
-### Developed by: KAYALVIZHI M
-### RegisterNumber:  212220230024
+```
+Program to implement the sigmoid activation function in a feed forward ANN.
+Developed by: KAYALVIZHI M
+RegisterNumber:  212220230024
+```
 ```python3
 
 import numpy as np
